@@ -2,7 +2,7 @@ import { createBrowserRouter, RouterProvider } from "react-router";
 import Home from "./pages/Home";
 import Root from "./pages/Root";
 import "./index.css";
-import Searched from "./pages/Searched";
+import Search from "./pages/Search";
 import Detail from "./pages/Detail";
 
 const router = createBrowserRouter([
@@ -11,7 +11,7 @@ const router = createBrowserRouter([
     element: <Root />,
     children: [
       { index: true, element: <Home /> },
-      { path: "searched", element: <Searched /> },
+      { path: "search/:keyword", element: <Search /> },
       { path: "/:videoId", element: <Detail /> },
     ],
   },
