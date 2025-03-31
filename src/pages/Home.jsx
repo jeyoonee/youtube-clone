@@ -1,10 +1,10 @@
 import HomeVideo from "../Components/HomeVideo";
-import homeData from "../data/homeData.json";
+import popularVideos from "../data/popularVideos.json";
 
 export default function Home() {
   return (
     <div>
-      {homeData.map((video) => (
+      {popularVideos.map((video) => (
         <HomeVideo key={video.id} video={video} />
       ))}
     </div>

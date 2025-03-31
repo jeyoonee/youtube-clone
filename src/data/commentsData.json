@@ -1,0 +1,682 @@
+[
+  {
+    "kind": "youtube#commentThread",
+    "etag": "dpTxpPsrvZDGNCPzg100RBrqrbc",
+    "id": "UgyGKz8uYDD2eVZkyKh4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "bw-yXrkqtY59kli3egaHdSXS1GU",
+        "id": "UgyGKz8uYDD2eVZkyKh4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "보나마나 …… 지디님의 마이너감성은 알고는 있었지만 하 이정도인줄은몰랐습니다.. 이런 명곡을 지금 알았네요 제가 바보같을 정도입니다. 바로 플리 저장하고 가요ㅠ",
+          "textOriginal": "보나마나 …… 지디님의 마이너감성은 알고는 있었지만 하 이정도인줄은몰랐습니다.. 이런 명곡을 지금 알았네요 제가 바보같을 정도입니다. 바로 플리 저장하고 가요ㅠ",
+          "authorDisplayName": "@Jamie-tb9uf",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/KPJgZJ-_Kh0e6RR4wctLMWdDzqTTmvtwlqihs1NvUoWrc2UlKdZBYF5oJ7VVx4B1zTAlZbqNXA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Jamie-tb9uf",
+          "authorChannelId": {
+            "value": "UCNYMm6gb8NmVmhScgmopSGw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T09:48:45Z",
+          "updatedAt": "2025-03-31T09:48:45Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "5w3yVVlLHSTWXlgsnicbdiogH4A",
+    "id": "Ugz2oHwb9oOKEquKD4t4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "5CfFjPcIIQ11qKlCbPAAxSfrH98",
+        "id": "Ugz2oHwb9oOKEquKD4t4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "omg i think IU calms GD .",
+          "textOriginal": "omg i think IU calms GD .",
+          "authorDisplayName": "@Shersify",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kZIQECp8fIYwh4i5DcHOlOqdvyuHaPTUpgud18f0r5-po=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Shersify",
+          "authorChannelId": {
+            "value": "UC4V0dl8HsDGB0RIy6rYFeyA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T09:38:34Z",
+          "updatedAt": "2025-03-31T09:38:34Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "k2DJ1Uf9MVx9aMJ-yY0VbavxyGY",
+    "id": "Ugy4KN15Zxk0VERb8UZ4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "QKe_27sKR_SOUvjAnjytQzTnXpY",
+        "id": "Ugy4KN15Zxk0VERb8UZ4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "지디는 사랑이죠. ❤",
+          "textOriginal": "지디는 사랑이죠. ❤",
+          "authorDisplayName": "@fswfgytewju",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/o00HvdyVnhecnhLKSmtO4QdIxJB49tQZZfwQUdIk97F-yVkljlAgd2L_C1G6ubo3IxhvUifc=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@fswfgytewju",
+          "authorChannelId": {
+            "value": "UCleGWJhETqdZ3nyvMdDTW3Q"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2025-03-31T09:35:02Z",
+          "updatedAt": "2025-03-31T09:35:02Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "NxqSpDPM2to58aiWWmTgErG5Uyw",
+    "id": "UgyF47XR7r_yqi0B1_d4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "_Qv6UaOqg-IE8vanaesusBnnwMQ",
+        "id": "UgyF47XR7r_yqi0B1_d4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "말을 왜케 못하지...? 좀 힘들어보임",
+          "textOriginal": "말을 왜케 못하지...? 좀 힘들어보임",
+          "authorDisplayName": "@국건",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ltiMYd_FW6WiHgYglVY1EyimhN3PKl_Z18DGd12Lu-kxQ=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@%EA%B5%AD%EA%B1%B4",
+          "authorChannelId": {
+            "value": "UCr5_tJGohWKfGvNI1G_SLWA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2025-03-31T09:18:58Z",
+          "updatedAt": "2025-03-31T09:18:58Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "dUyjAsoBeS6up890iSkQh6bBqmE",
+    "id": "UgyfP-b5th-80mSq1nt4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "1vxV8Q8sl6kE4VSJUKNOAj6BgV4",
+        "id": "UgyfP-b5th-80mSq1nt4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "IU voice is amazing~ all the song brings back so much memories",
+          "textOriginal": "IU voice is amazing~ all the song brings back so much memories",
+          "authorDisplayName": "@Shersify",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kZIQECp8fIYwh4i5DcHOlOqdvyuHaPTUpgud18f0r5-po=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Shersify",
+          "authorChannelId": {
+            "value": "UC4V0dl8HsDGB0RIy6rYFeyA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T09:16:59Z",
+          "updatedAt": "2025-03-31T09:16:59Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "-Pkejv_Nq_iQP3xcntesPj0oqvs",
+    "id": "UgwmzD8vrISNqufOhTF4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "dptU-FxMyVY5BHsWLF9c-vdxqgY",
+        "id": "UgwmzD8vrISNqufOhTF4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "보나 마나 라는 곡 되게 신선하네요",
+          "textOriginal": "보나 마나 라는 곡 되게 신선하네요",
+          "authorDisplayName": "@Guardian-Melody",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/gHl1nRjXPRPLdsRVDumUo587IM7NPJsw7WdgMreULIyXiKxZAfr6AsaBciP3dl5MsLp25vTrGA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Guardian-Melody",
+          "authorChannelId": {
+            "value": "UCimGmUNwAOtJ1maWKgv_DTw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2025-03-31T09:13:51Z",
+          "updatedAt": "2025-03-31T09:13:51Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "dgDtDOTGhLAqT5UR8a7Y1wRlDzI",
+    "id": "Ugws6fsuu7reBeXZL_p4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "Xn-gGRJ4oBug3TTf9YBDKSVC_pw",
+        "id": "Ugws6fsuu7reBeXZL_p4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "너무 조으다~~~^^",
+          "textOriginal": "너무 조으다~~~^^",
+          "authorDisplayName": "@에픽하이-w6y",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lPzwNJIwW1k0s0Pq5m5acZMdMZ1WQ2bze8T2FvmSmc-8rjJdg=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@%EC%97%90%ED%94%BD%ED%95%98%EC%9D%B4-w6y",
+          "authorChannelId": {
+            "value": "UCHZfFV21RZL6XPayfRpPnug"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T08:59:36Z",
+          "updatedAt": "2025-03-31T08:59:36Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "PcvIbbXtYD0LDldOR0QPJ5RkA38",
+    "id": "UgywUdGjAyr2VU5wiyh4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "2qX7r0ANQsgvFphXpDF7HSPmqLM",
+        "id": "UgywUdGjAyr2VU5wiyh4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "<a href=\"https://www.youtube.com/watch?v=96v6HW7ozR8&amp;t=1959\">32:39</a>  3 Disasters are def GD’s, Seungri &amp; TOP’s.🥹",
+          "textOriginal": "32:39  3 Disasters are def GD’s, Seungri & TOP’s.🥹",
+          "authorDisplayName": "@ImRivaJain",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/gAgR3Qy7R1t2NMsIhCgbtkbLD4fg7tTlrynvQM0_Q8mAQ3KWF6sa5V2-JYf6AzI9YpLb5wlRD0g=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@ImRivaJain",
+          "authorChannelId": {
+            "value": "UCT9SrG-CRUKuTjs9goZPPUw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T08:22:28Z",
+          "updatedAt": "2025-03-31T08:22:28Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "sAv1W3PL5pFBDW3c6sd31Ldzo2k",
+    "id": "UgwanCRVmgkY09rUsZV4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "N0_Es4L76OlmNQeRY1xkn-7xPDo",
+        "id": "UgwanCRVmgkY09rUsZV4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "좌팔레트 넘 재밌어용 ❤",
+          "textOriginal": "좌팔레트 넘 재밌어용 ❤",
+          "authorDisplayName": "@슬메끼리",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ZGxSq2O_32-zbnpnYLYRH4orer-1YG0QgvUd7q9-XlYCNQ6Ez7L1Pp-U51WWkmvYo4-q2fF7oA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@%EC%8A%AC%EB%A9%94%EB%81%BC%EB%A6%AC",
+          "authorChannelId": {
+            "value": "UCFoe0iEO_krr1o_mNm7c-hA"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T07:51:28Z",
+          "updatedAt": "2025-03-31T07:51:28Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "eur3sYqDjiHDtle9Q69ZUzjVeLc",
+    "id": "UgyUjey3ZFxv9FScSNd4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "tBnO0v42-plKtlkMFjg_xqTx2pQ",
+        "id": "UgyUjey3ZFxv9FScSNd4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "<a href=\"https://www.youtube.com/watch?v=96v6HW7ozR8&amp;t=1646\">27:26</a> IU + GD의 Butterfly 듣고 싶다",
+          "textOriginal": "27:26 IU + GD의 Butterfly 듣고 싶다",
+          "authorDisplayName": "@altxvs8640",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kfYx9cqDjU0irtFcSmAU8P6LbzaZR7TEg9YHq1fK0qe-M=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@altxvs8640",
+          "authorChannelId": {
+            "value": "UC8Os1sFaIN2HU2wkBJ1W1Ng"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T07:32:10Z",
+          "updatedAt": "2025-03-31T07:32:10Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "fYzmL7SA858-eelvCPc30OjiTKs",
+    "id": "Ugwr7neDkMhAWey6oex4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "_slDva2zxDstaLi3tHwoEBll9M4",
+        "id": "Ugwr7neDkMhAWey6oex4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "one piece got me actually crackin hahaha🤣",
+          "textOriginal": "one piece got me actually crackin hahaha🤣",
+          "authorDisplayName": "@jiel_slyhpalott5180",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/4NlaNWjrXQmBxZ6iK64w7yp0lfHob-NzyoBoegkPwnoTxk1AhVE-muTyRjHg68kz70G09nkqpA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@jiel_slyhpalott5180",
+          "authorChannelId": {
+            "value": "UCeG94TWnI_6xfOZRbSAVSpg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T07:24:59Z",
+          "updatedAt": "2025-03-31T07:24:59Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "_o0ljewKRf111TVJlZzP5DPVHWU",
+    "id": "UgxP3hLCBe7Uu5mME8J4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "d9yq4NJ3QaYdxTcQO0bdWiC46gE",
+        "id": "UgxP3hLCBe7Uu5mME8J4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "How nice it is to watch and listen to two very talented individuals💛😍",
+          "textOriginal": "How nice it is to watch and listen to two very talented individuals💛😍",
+          "authorDisplayName": "@funnymoments-9951",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/B4H9HnOLe1YxS8LjXB-ZVdNm_-wYtvgraUBsaDxxBLLMhKU9-iuLlifKy-t2YuSs1ULDL3Q6BA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@funnymoments-9951",
+          "authorChannelId": {
+            "value": "UCsFxjf22BtxADgDkb6IZZGg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T07:15:52Z",
+          "updatedAt": "2025-03-31T07:15:52Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "gswSDQLyYnIDa4S06NOD1IQi3bs",
+    "id": "UgwgwAo-TPTgvA14Pm54AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "7yydhsFpZ2IuC3N0IK7ecbzqVwU",
+        "id": "UgwgwAo-TPTgvA14Pm54AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "두분 넘 잘어울려요~~^^  뮤지션으로",
+          "textOriginal": "두분 넘 잘어울려요~~^^  뮤지션으로",
+          "authorDisplayName": "@박영숙-y7p6e",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lUo0FHmVx1l131Xxouj-EV3vAqL0-TpaiasaAv4uM=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@%EB%B0%95%EC%98%81%EC%88%99-y7p6e",
+          "authorChannelId": {
+            "value": "UCVuV84Mq3YfgauIBmTPUnPw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T06:51:37Z",
+          "updatedAt": "2025-03-31T06:51:37Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "nFAhKOD4vVj8uM0S0-dhS5wD8T4",
+    "id": "Ugx3_q_WWLdJnFn7M6B4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "kh2SSoc1qnQDEutzF6tNMuGVKLI",
+        "id": "Ugx3_q_WWLdJnFn7M6B4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "둘 다 너무 사랑스러운 사람들<br>기분좋다",
+          "textOriginal": "둘 다 너무 사랑스러운 사람들\n기분좋다",
+          "authorDisplayName": "@fotiten-e5z",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/Bd-Q8wiFMv8Gud8EAVyCmOMK4WX3BpYBv-eqolAoIIsNV3wA57FoUTn32nYxRtS9-DTqrBwHTw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@fotiten-e5z",
+          "authorChannelId": {
+            "value": "UC425A6zNuCmyeI-Rgul7oWw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2025-03-31T06:41:59Z",
+          "updatedAt": "2025-03-31T06:41:59Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "omOrpDrOhhhlUHCNWygCpPVsmYw",
+    "id": "UgzTSbVwu0dp50IikCR4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "U15ljbrwJwh2rORmQP03zVh_HXY",
+        "id": "UgzTSbVwu0dp50IikCR4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "A shy guy need a brave woman",
+          "textOriginal": "A shy guy need a brave woman",
+          "authorDisplayName": "@longchhun2977",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kLjuP1-78ZW0Ex0AM5V28ztDqXLeiGlXkBqzYA8f15nYE_=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@longchhun2977",
+          "authorChannelId": {
+            "value": "UCNwXlP3kScraNirJbjOG_mQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T06:35:26Z",
+          "updatedAt": "2025-03-31T06:35:26Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "WRk-eYxcVlCSmDxIogx1cCGU19k",
+    "id": "UgzrHBfSn7d8Nn1CGHd4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "bzZZ6oPWVAMSyw6e-oRrKxLflxE",
+        "id": "UgzrHBfSn7d8Nn1CGHd4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "Finally, seeing GD at Palette.. I understand GD, this show somehow got attached to him because of all IU song&#39;s it&#39;s what she chose.. I also can&#39;t even imagine IU&#39;s version of That XX + Butterfly.. it&#39;s so beautiful.. I don&#39;t know why I teared up when they sang Palette. really hits different..",
+          "textOriginal": "Finally, seeing GD at Palette.. I understand GD, this show somehow got attached to him because of all IU song's it's what she chose.. I also can't even imagine IU's version of That XX + Butterfly.. it's so beautiful.. I don't know why I teared up when they sang Palette. really hits different..",
+          "authorDisplayName": "@haerin24",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/UBwP4LdZullx_96PpUugd6EDJirNMfrqrYSj2IybaoGDR9Gb0dTbYbbUKiuYlU_mG7vltFRmW3Q=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@haerin24",
+          "authorChannelId": {
+            "value": "UCjdVDThmigCHGP1zE6Dgw_A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T06:30:08Z",
+          "updatedAt": "2025-03-31T06:45:45Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "V-pfaoCtSCrfYhvKaIFAtNoLdrM",
+    "id": "UgxKxl0u0QQfDLmpeBt4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "5gLrV1m-QvpZscEkpu8qO4Y0wvA",
+        "id": "UgxKxl0u0QQfDLmpeBt4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "My awkward babies 😭 It&#39;s so good to see them both and hear them sing Palette once again.",
+          "textOriginal": "My awkward babies 😭 It's so good to see them both and hear them sing Palette once again.",
+          "authorDisplayName": "@cupofcristea",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/a-ojHFHEvt8zbn-auRFr5KUbo60D4K0ugX3Wa2bwNDPhjhpk6KO8kOCVGsY5BI3nmypnU3t6fAA=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@cupofcristea",
+          "authorChannelId": {
+            "value": "UCaEku_GIGXyNxw9MFhEd2mQ"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T05:57:58Z",
+          "updatedAt": "2025-03-31T05:57:58Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "Subo98dFcMupiKeANuKnd6laAvM",
+    "id": "UgwgpjJqLEAHOvGTLMR4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "6fm6IjM7MyICBDHyI5PuVlLdX0o",
+        "id": "UgwgpjJqLEAHOvGTLMR4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "I can&#39;t put my finger on it but G Dragon is giving off some weird nervous energy. He&#39;s speaks fine but his body language and his movements are just awkward. Also he&#39;s become more feminine in a not good way. Maybe he&#39;s starting to get his confidence back after going to the army or something but something isn&#39;t right.",
+          "textOriginal": "I can't put my finger on it but G Dragon is giving off some weird nervous energy. He's speaks fine but his body language and his movements are just awkward. Also he's become more feminine in a not good way. Maybe he's starting to get his confidence back after going to the army or something but something isn't right.",
+          "authorDisplayName": "@TyroneBigguns-mk3og",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m8X9mT-HZG5lKIiCAJykIcmXqiL55IlVyGqWptac3ezJgf6r2Can8euNwXp4DTBFAbEw=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@TyroneBigguns-mk3og",
+          "authorChannelId": {
+            "value": "UCFx0gE-wrXMMZeb4w7DvbSw"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 0,
+          "publishedAt": "2025-03-31T05:52:52Z",
+          "updatedAt": "2025-03-31T05:52:52Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "sbcObhqqc4NvxM5eSUg6L_kfxbA",
+    "id": "UgzSUpXOD2JtutXLl5d4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "ixQnxYMx3U6945zzA4bm2DCKktk",
+        "id": "UgzSUpXOD2JtutXLl5d4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "The legends of kpop😭😭💕💕🐉",
+          "textOriginal": "The legends of kpop😭😭💕💕🐉",
+          "authorDisplayName": "@Ursulaswargiary",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/9v481mt29Jv3aod4unSDlkMLGHlF7pf4Sle9x1kRcSgsc_SN6xFgNq14UkxRTP5t7zdZdNOIig=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@Ursulaswargiary",
+          "authorChannelId": {
+            "value": "UCwfwF9tWytWNeJLIrNxLi1A"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 1,
+          "publishedAt": "2025-03-31T05:08:28Z",
+          "updatedAt": "2025-03-31T05:08:28Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  },
+  {
+    "kind": "youtube#commentThread",
+    "etag": "ZSlf_DKSvti_wLK8Bww8xB0ZiIc",
+    "id": "UgzRdRZyLfjdpMz2Eyl4AaABAg",
+    "snippet": {
+      "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+      "videoId": "96v6HW7ozR8",
+      "topLevelComment": {
+        "kind": "youtube#comment",
+        "etag": "w9B2s7tagYi0QttsSB8jJLBR9f0",
+        "id": "UgzRdRZyLfjdpMz2Eyl4AaABAg",
+        "snippet": {
+          "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+          "videoId": "96v6HW7ozR8",
+          "textDisplay": "G-Dragon Oppa ❤❤❤",
+          "textOriginal": "G-Dragon Oppa ❤❤❤",
+          "authorDisplayName": "@nikomangernayantisugas1032",
+          "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m7HjokV9zSg3Dr0L1apDofyJBYRirUIkJlNd-rdxR_9ZY=s48-c-k-c0x00ffffff-no-rj",
+          "authorChannelUrl": "http://www.youtube.com/@nikomangernayantisugas1032",
+          "authorChannelId": {
+            "value": "UCRtqxQIrl-lTtYkDgUklJgg"
+          },
+          "canRate": true,
+          "viewerRating": "none",
+          "likeCount": 2,
+          "publishedAt": "2025-03-31T05:03:16Z",
+          "updatedAt": "2025-03-31T05:03:16Z"
+        }
+      },
+      "canReply": true,
+      "totalReplyCount": 0,
+      "isPublic": true
+    }
+  }
+]
