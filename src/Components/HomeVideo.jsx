@@ -1,13 +1,20 @@
 import RelativeTime from "./RelativeTime";
+import { useNavigate } from "react-router";
 
 export default function HomeVideo({ video }) {
-  return (
-    <div className="bg-black text-white mb-2 w-50 rounded-lg p-1">
-      <img src={video.thumbnails.default.url} alt={video.title} />
+  const navigate = useNavigate();
+  const { thumbnails, title, channelTitle, publishedAt } = video.snippet;
 
-      <h2>{video.title}</h2>
-      <span>{video.channelTitle}</span>
-      <RelativeTime isoDateString={video.publishedAt} />
+  return (
+    <div
+      className="bg-black text-white mb-2 w-50 rounded-lg p-1 cursor-pointer"
+      onClick={() => navigate(`/${video.id}`)}
+    >
+      <img src={thumbnails.default.url} alt={title} />
+
+      <h2>{title}</h2>
+      <span>{channelTitle}</span>
+      <RelativeTime isoDateString={publishedAt} />
     </div>
   );
 }

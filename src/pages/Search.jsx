@@ -27,7 +27,7 @@ export default function Search() {
   return (
     <div>
       {videos.map((video) => (
-        <SearchVideo key={video.etag} video={video.snippet} />
+        <SearchVideo key={video.etag} video={video} />
       ))}
     </div>
   );

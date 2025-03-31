@@ -1,0 +1,87 @@
+{
+  "kind": "youtube#video",
+  "etag": "zBTOAlaxRYvf3E4VrlAvjDueHtA",
+  "id": "96v6HW7ozR8",
+  "snippet": {
+    "publishedAt": "2025-03-27T09:00:14Z",
+    "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+    "title": "[아이유의 팔레트🎨] 8레트로 88날아 왔지용 (With G-DRAGON) Ep.32",
+    "description": "[IU's Palette] G-DRAGON is flyin8 hi8h to 8alette (With G-DRAGON) Ep.32\n\n#아이유 #GDRAGON #아이유의팔레트\n\n[IU Official SNS]\n\nYouTube ▶ https://www.youtube.com/@dlwlrma\nInstagram ▶ https://www.instagram.com/dlwlrma/\nInstagram ▶ https://www.instagram.com/iu_edamofficial/\nX ▶https://twitter.com/_IUofficial\nTiktok ▶ https://www.tiktok.com/@_iuofficial\nFancafe ▶ https://cafe.daum.net/IU",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/96v6HW7ozR8/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/96v6HW7ozR8/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/96v6HW7ozR8/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      },
+      "standard": {
+        "url": "https://i.ytimg.com/vi/96v6HW7ozR8/sddefault.jpg",
+        "width": 640,
+        "height": 480
+      },
+      "maxres": {
+        "url": "https://i.ytimg.com/vi/96v6HW7ozR8/maxresdefault.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    "channelTitle": "이지금 [IU Official]",
+    "tags": [
+      "IU",
+      "아이유",
+      "이담",
+      "EDAM",
+      "이지금",
+      "dlwlrma",
+      "아이유tv",
+      "아티비",
+      "아이유티비",
+      "아이유의팔레트",
+      "팔레트",
+      "G-DRAGON",
+      "GD",
+      "Butterfly",
+      "Palette",
+      "그XX",
+      "보나마나",
+      "BONAMANA",
+      "콘서트",
+      "피처링",
+      "지디",
+      "스카프",
+      "밀집모자"
+    ],
+    "categoryId": "24",
+    "liveBroadcastContent": "none",
+    "defaultLanguage": "ko",
+    "localized": {
+      "title": "[아이유의 팔레트🎨] 8레트로 88날아 왔지용 (With G-DRAGON) Ep.32",
+      "description": "[IU's Palette] G-DRAGON is flyin8 hi8h to 8alette (With G-DRAGON) Ep.32\n\n#아이유 #GDRAGON #아이유의팔레트\n\n[IU Official SNS]\n\nYouTube ▶ https://www.youtube.com/@dlwlrma\nInstagram ▶ https://www.instagram.com/dlwlrma/\nInstagram ▶ https://www.instagram.com/iu_edamofficial/\nX ▶https://twitter.com/_IUofficial\nTiktok ▶ https://www.tiktok.com/@_iuofficial\nFancafe ▶ https://cafe.daum.net/IU"
+    },
+    "defaultAudioLanguage": "ko"
+  },
+  "contentDetails": {
+    "duration": "PT41M41S",
+    "dimension": "2d",
+    "definition": "hd",
+    "caption": "true",
+    "licensedContent": true,
+    "contentRating": {},
+    "projection": "rectangular"
+  },
+  "statistics": {
+    "viewCount": "2311632",
+    "likeCount": "100769",
+    "favoriteCount": "0",
+    "commentCount": "6861"
+  }
+}

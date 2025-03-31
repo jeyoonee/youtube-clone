@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       {homeData.map((video) => (
-        <HomeVideo key={video.id} video={video.snippet} />
+        <HomeVideo key={video.id} video={video} />
       ))}
     </div>
   );

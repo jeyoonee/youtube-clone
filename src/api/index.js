@@ -20,6 +20,16 @@ export const fetchVideosByKeyword = async (keyword) => {
       q: keyword,
     },
   });
-
   return res.data.items;
+};
+
+export const fetchVideoById = async (videoId) => {
+  const res = await axios.get("/videos", {
+    params: {
+      part: "snippet,contentDetails,statistics",
+      id: videoId,
+    },
+  });
+
+  return res.data.items[0];
 };
