@@ -4,6 +4,7 @@ import { fetchVideosByKeyword } from "../api";
 import { CiSearch } from "react-icons/ci";
 import { HiPlus, HiMicrophone } from "react-icons/hi2";
 import { SlBell } from "react-icons/sl";
+import { HiOutlineMenu } from "react-icons/hi";
 
 export default function Header() {
   const [text, setText] = useState("");
@@ -22,7 +23,10 @@ export default function Header() {
   };
 
   return (
-    <header className="flex justify-between items-center px-4 bg-black h-14 w-full">
+    <header className="flex fixed top-0 left-0 right-0 z-50 justify-between items-center px-4 bg-black h-14 w-full">
+      <button className="flex bg-none rounded-full hover:bg-[#282828] w-10 h-10  justify-center items-center cursor-pointer mr-[18px] aspect-square ">
+        <HiOutlineMenu className="text-white w-6 h-6 " />
+      </button>
       <img
         src="/logo.png"
         alt="youtube logo"

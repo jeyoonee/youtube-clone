@@ -4,10 +4,14 @@ import Navbar from "../Components/Navbar";
 
 export default function Root() {
   return (
-    <div>
-      <Hearder />
+    <div className="flex">
       <Navbar />
-      <Outlet />
+      <div className="flex flex-col flex-1">
+        <Hearder />
+        <main className="mt-14 ml-20 p-4">
+          <Outlet />
+        </main>
+      </div>
     </div>
   );
 }
