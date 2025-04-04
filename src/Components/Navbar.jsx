@@ -5,7 +5,7 @@ import { FaCircleUser } from "react-icons/fa6";
 
 export default function Navbar() {
   return (
-    <nav className="fixed top-14 left-0 h-full bg-black border-r border-[#303030] px-1">
+    <nav className="fixed top-14 left-0 h-full bg-black px-1">
       <NavLink
         to="/"
         className="flex flex-col items-center justify-between text-white pt-4 pb-[14px] text-[10px] w-16 h-[74px] hover:bg-[#282827] rounded-xl"
