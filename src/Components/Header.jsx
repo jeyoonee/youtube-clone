@@ -1,6 +1,9 @@
 import { useState } from "react";
 import { useNavigate } from "react-router";
 import { fetchVideosByKeyword } from "../api";
+import { CiSearch } from "react-icons/ci";
+import { HiPlus, HiMicrophone } from "react-icons/hi2";
+import { SlBell } from "react-icons/sl";
 
 export default function Header() {
   const [text, setText] = useState("");
@@ -19,22 +22,50 @@ export default function Header() {
   };
 
   return (
-    <header className="flex justify-between">
-      <div> 메뉴 </div>
-      <div> 유튭 로고 </div>
-      <form onSubmit={handleSubmit}>
-        <input
-          type="search"
-          placeholder="Search"
-          value={text}
-          onChange={handleChange}
-        />
-      </form>
+    <header className="flex justify-between items-center px-4 bg-black h-14 w-full">
+      <img
+        src="/logo.png"
+        alt="youtube logo"
+        className="cursor-pointer h-5"
+        onClick={() => navigate("/")}
+      />
 
-      <div> 마이크 </div>
-      <button> Create </button>
-      <div> 종 </div>
-      <div> 프사 </div>
+      <div className="flex items-center justify-center ml-10 w-full mr-4">
+        <form
+          onSubmit={handleSubmit}
+          className="relative flex border rounded-full border-[#303030] h-10 mr-4 w-full"
+        >
+          <input
+            type="search"
+            placeholder="Search"
+            value={text}
+            onChange={handleChange}
+            className="rounded-xl min-w-7 w-full placeholder:text-[#757575] pl-4 py-1 pr-0 focus:outline-none text-white"
+          />
+          <button className="absolute flex w-16 h-full right-0 rounded-r-full justify-center items-center bg-[#222222]  cursor-pointer">
+            <CiSearch className="text-white w-6 h-6" />
+          </button>
+        </form>
+
+        <button className="bg-[#282828] rounded-full hover:bg-[#3D3D3D] w-10 h-10 text-center cursor-pointer aspect-square">
+          <HiMicrophone className="text-white m-auto w-5 h-5" />
+        </button>
+      </div>
+
+      <div className="flex items-center justify-center w-[213px]">
+        <button className="flex justify-center items-center bg-[#282828] hover:bg-[#3D3D3D] rounded-full text-white px-3 h-9 cursor-pointer  mr-2">
+          <HiPlus className="w-6 h-6 mr-1" />
+          <span className="text-[14px] font-medium"> Create</span>
+        </button>
+        <button className="bg-none rounded-full hover:bg-[#282828] w-10 h-10 text-center cursor-pointer">
+          <SlBell className="text-white w-5 h-5 " />
+        </button>
+        <img
+          src="/profile.jpg"
+          alt="user profile image"
+          className="w-8 h-8 rounded-full cursor-pointer mx-[14px]"
+        />
+      </div>
     </header>
   );
 }

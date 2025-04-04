@@ -6,7 +6,8 @@ module.exports = {
     extend: {
       colors: {
         white: "#FFFFFF",
-        black: "#0F0F0F",
+        black: "#282828",
+        red: "#FF0000",
       },
       fontSize: {
         30: ["30px", "100%"],
