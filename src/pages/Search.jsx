@@ -25,7 +25,7 @@ export default function Search() {
   // }, [keyword]);
 
   return (
-    <div>
+    <div className="p-6 flex flex-col bg-black">
       {videos.map((video) => (
         <SearchVideo key={video.etag} video={video} />
       ))}

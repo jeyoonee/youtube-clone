@@ -8,6 +8,7 @@ function formatViewCount(count) {
   if (num >= 1_000) return (num / 1_000).toFixed(1).replace(/\.0$/, "") + "K";
   return num.toString();
 }
+
 export default function HomeVideo({ video }) {
   const navigate = useNavigate();
   const { thumbnails, title, channelTitle, publishedAt } = video.snippet;
