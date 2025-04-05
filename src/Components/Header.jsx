@@ -37,7 +37,7 @@ export default function Header() {
       <div className="flex items-center justify-center ml-10 w-full mr-4">
         <form
           onSubmit={handleSubmit}
-          className="relative flex border rounded-full border-[#303030] h-10 mr-4 w-full"
+          className="relative flex border rounded-full border-[#303030] h-10 mr-4 w-full min-w-[127px]"
         >
           <input
             type="search"
@@ -46,7 +46,7 @@ export default function Header() {
             onChange={handleChange}
             className="rounded-xl min-w-7 w-full placeholder:text-[#757575] pl-4 py-1 pr-0 focus:outline-none text-white"
           />
-          <button className="absolute flex w-16 h-full right-0 rounded-r-full justify-center items-center bg-[#222222]  cursor-pointer">
+          <button className="absolute flex w-16 h-full right-0 rounded-r-full justify-center items-center bg-[#222222]  cursor-pointer ">
             <CiSearch className="text-white w-6 h-6" />
           </button>
         </form>
@@ -56,13 +56,13 @@ export default function Header() {
         </button>
       </div>
 
-      <div className="flex items-center justify-center w-[213px]">
+      <div className="flex items-center justify-center min-w-[213px]">
         <button className="flex justify-center items-center bg-[#282828] hover:bg-[#3D3D3D] rounded-full text-white px-3 h-9 cursor-pointer  mr-2">
           <HiPlus className="w-6 h-6 mr-1" />
           <span className="text-[14px] font-medium"> Create</span>
         </button>
-        <button className="bg-none rounded-full hover:bg-[#282828] w-10 h-10 text-center cursor-pointer">
-          <SlBell className="text-white w-5 h-5 " />
+        <button className="flex justify-center items-center bg-none rounded-full hover:bg-[#282828] w-10 h-10 text-center cursor-pointer">
+          <SlBell className="text-white w-5 h-5" />
         </button>
         <img
           src="/profile.jpg"
