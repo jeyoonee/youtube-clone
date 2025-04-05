@@ -51,7 +51,7 @@ export default function Detail() {
 
   return (
     <div className="flex flex-col lg:flex-row p-6 m-auto justify-center max-w-[100vw] overflow-x-hidden min-h-screen">
-      {isLoading ? (
+      {isLoading && !error ? (
         <p className="text-white">Loading...</p>
       ) : (
         <>
@@ -74,9 +74,11 @@ export default function Detail() {
 
           {/* 인기 동영상 */}
           <div className="order-2 lg:order-3 lg:basis-1/3 lg:max-w-[400px]">
-            {sideVideos.map((video) => (
-              <DetailPopularVideo key={video.id} video={video} />
-            ))}
+            {sideVideos?.length > 0
+              ? sideVideos.map((video) => (
+                  <DetailPopularVideo key={video.id} video={video} />
+                ))
+              : ""}
           </div>
         </>
       )}
