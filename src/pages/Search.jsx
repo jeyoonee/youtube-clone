@@ -1,34 +1,42 @@
 import { useEffect, useState } from "react";
+import { useLocation, useParams } from "react-router";
 import { fetchVideosByKeyword } from "../api";
-import SearchVideo from "../Components/SearchVideo";
-import searchedData from "../data/searchedData.json";
+import SearchVideo from "../components/SearchVideo";
 
 export default function Search() {
-  const keyword = window.location.pathname.split("/")[2];
+  const location = useLocation();
+  const { keyword } = useParams();
+  const [videos, setVideos] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
 
-  // const [videos, setVideos] = useState([]);
-  // setVideos(searchedData);
-  const videos = searchedData.filter((el) => el.id.kind === "youtube#video");
+  useEffect(() => {
+    const getVideos = async () => {
+      setIsLoading(true);
+      try {
+        const data = await fetchVideosByKeyword(keyword);
+        const filteredData = data?.filter(
+          (el) => el.id.kind === "youtube#video"
+        );
+        setVideos(filteredData);
+      } catch (err) {
+        console.error("Error fetching videos:", err);
+      } finally {
+        setIsLoading(false);
+      }
+    };
 
-  // TODO: 목업데이터로 개발 후 API 적용하기
-  // useEffect(() => {
-  //   const getVideos = async () => {
-  //     try {
-  //       const data = await fetchVideosByKeyword(keyword);
-  //       console.log(data);
-  //       setVideos(data);
-  //     } catch (err) {
-  //       console.error("Error fetching videos:", err);
-  //     }
-  //   };
-  //   getVideos();
-  // }, [keyword]);
+    getVideos();
+  }, [keyword]);
 
   return (
     <div className="p-6 flex flex-col bg-black">
-      {videos.map((video) => (
-        <SearchVideo key={video.etag} video={video} />
-      ))}
+      {isLoading ? (
+        <p className="text-white">Loading...</p>
+      ) : videos.length === 0 ? (
+        <p className="text-white">No results found</p>
+      ) : (
+        videos.map((video) => <SearchVideo key={video.etag} video={video} />)
+      )}
     </div>
   );
 }

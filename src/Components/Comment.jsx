@@ -1,6 +1,5 @@
 import RelativeTime from "./RelativeTime";
 import { BiLike, BiDislike } from "react-icons/bi";
-import { VscChevronDown } from "react-icons/vsc";
 
 export default function Comment({ comment }) {
   return (

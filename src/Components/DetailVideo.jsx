@@ -2,14 +2,7 @@ import RelativeTime from "./RelativeTime";
 import { BiLike, BiDislike } from "react-icons/bi";
 import { PiShareFatLight } from "react-icons/pi";
 import { HiOutlineDotsHorizontal } from "react-icons/hi";
-
-function formatViewCount(count) {
-  const num = parseInt(count, 10);
-  if (num >= 1_000_000)
-    return (num / 1_000_000).toFixed(0).replace(/\.0$/, "") + "M";
-  if (num >= 1_000) return (num / 1_000).toFixed(0).replace(/\.0$/, "") + "K";
-  return num.toString();
-}
+import formatViewCount from "../utils/formatViewCount";
 
 export default function DetailVideo({ video }) {
   return (

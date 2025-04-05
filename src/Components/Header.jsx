@@ -1,14 +1,22 @@
-import { useState } from "react";
-import { useNavigate } from "react-router";
-import { fetchVideosByKeyword } from "../api";
+import { useEffect, useState } from "react";
+import { useNavigate, useParams } from "react-router";
 import { CiSearch } from "react-icons/ci";
 import { HiPlus, HiMicrophone } from "react-icons/hi2";
 import { SlBell } from "react-icons/sl";
 import { HiOutlineMenu } from "react-icons/hi";
 
 export default function Header() {
+  const { keyword } = useParams();
   const [text, setText] = useState("");
   const navigate = useNavigate();
+
+  useEffect(() => {
+    if (keyword) {
+      setText(keyword);
+    } else {
+      setText("");
+    }
+  }, [keyword]);
 
   const handleChange = (e) => {
     setText(e.target.value);
@@ -16,9 +24,7 @@ export default function Header() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-
-    // const data = await fetchVideosByKeyword(text);
-    // console.log(data.items);
+    if (!text.trim()) return; // 빈 검색 방지
     navigate(`search/${text}`);
   };
 
