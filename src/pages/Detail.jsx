@@ -38,21 +38,23 @@ export default function Detail() {
   }, [videoId]);
 
   return (
-    <div className="flex p-5 justify-between">
-      <div className="flex flex-col">
+    <div className="flex flex-col lg:flex-row p-6 m-auto justify-center max-w-[100vw] overflow-x-hidden min-h-screen">
+      <div className="flex flex-col w-full lg:w-[60vw] lg:max-w-[960px] lg:mr-4 lg:basis-2/3">
+        {/* 비디오  */}
         {error && <p className="text-red-500">{error}</p>}
         <div>{video ? <DetailVideo video={video} /> : <p>Loading...</p>}</div>
-        <div className="bg-blue">
-          {/* 댓글 */}
-          <span className="font-bold text-lg">
-            {video?.statistics.commentCount} Comments
-          </span>
+        {/* 댓글 */}
+        <div className="text-white order-3 lg:order-2">
+          <div className="font-bold text-[20px] text-[#F1F1F1] mt-3 mb-6 ">
+            {Number(video?.statistics.commentCount)?.toLocaleString()} Comments
+          </div>
           {commentsData.map((comment) => (
             <Comment key={comment.id} comment={comment.snippet} />
           ))}
         </div>
       </div>
-      <div>
+      {/* 인기 동영상 */}
+      <div className="order-2 lg:order-3 lg:basis-1/3 lg:max-w-[400px]">
         {sideVideos.map((video) => (
           <DetailPopularVideo key={video.id} video={video} />
         ))}
