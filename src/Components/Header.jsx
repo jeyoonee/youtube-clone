@@ -11,11 +11,7 @@ export default function Header() {
   const navigate = useNavigate();
 
   useEffect(() => {
-    if (keyword) {
-      setText(keyword);
-    } else {
-      setText("");
-    }
+    setText(keyword || "");
   }, [keyword]);
 
   const handleChange = (e) => {

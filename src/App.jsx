@@ -4,6 +4,9 @@ import Root from "./pages/Root";
 import "./index.css";
 import Search from "./pages/Search";
 import Detail from "./pages/Detail";
+import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+
+const queryClient = new QueryClient();
 
 const router = createBrowserRouter(
   [
@@ -23,7 +26,11 @@ const router = createBrowserRouter(
 );
 
 function App() {
-  return <RouterProvider router={router} />;
+  return (
+    <QueryClientProvider client={queryClient}>
+      <RouterProvider router={router} />
+    </QueryClientProvider>
+  );
 }
 
 export default App;
