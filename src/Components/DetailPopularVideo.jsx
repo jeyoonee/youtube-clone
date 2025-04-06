@@ -1,6 +1,6 @@
 import RelativeTime from "./RelativeTime";
 import { useNavigate } from "react-router";
-import formatViewCount from "../utils/formatViewCount";
+import formatNumber from "../utils/formatNumber";
 
 export default function DetailPopularVideo({ video }) {
   const navigate = useNavigate();
@@ -23,7 +23,7 @@ export default function DetailPopularVideo({ video }) {
         </h2>
         <p>{channelTitle}</p>
         <p className="">
-          <span> {formatViewCount(viewCount)} views</span>
+          <span> {formatNumber(viewCount)} views</span>
           <span className="mx-1">•</span>
           <RelativeTime isoDateString={publishedAt} />
         </p>

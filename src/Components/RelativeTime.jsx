@@ -1,4 +1,5 @@
 import {
+  differenceInMinutes,
   differenceInHours,
   differenceInDays,
   differenceInWeeks,
@@ -13,11 +14,16 @@ export default function RelativeTime({ isoDateString }) {
     const date = parseISO(isoDateString);
     const now = new Date();
 
+    const minutesDiff = differenceInMinutes(now, date);
     const hoursDiff = differenceInHours(now, date);
     const daysDiff = differenceInDays(now, date);
     const weeksDiff = differenceInWeeks(now, date);
     const monthsDiff = differenceInMonths(now, date);
     const yearsDiff = differenceInYears(now, date);
+
+    if (minutesDiff < 60) {
+      return `${minutesDiff} minute${minutesDiff !== 1 ? "s" : ""} ago`;
+    }
 
     if (hoursDiff < 24) {
       return `${hoursDiff} hour${hoursDiff !== 1 ? "s" : ""} ago`;

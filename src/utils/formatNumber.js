@@ -1,4 +1,4 @@
-export default function formatViewCount(count) {
+export default function formatNumber(count) {
   const num = parseInt(count, 10);
   if (num >= 1_000_000)
     return (num / 1_000_000).toFixed(0).replace(/\.0$/, "") + "M";

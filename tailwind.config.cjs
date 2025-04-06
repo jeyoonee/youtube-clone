@@ -2,13 +2,12 @@ module.exports = {
   plugins: [require("@tailwindcss/aspect-ratio")],
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx,html}"],
   theme: {
-    colors: {},
-    fontSize: {},
     extend: {
       colors: {
         white: "#FFFFFF",
         black: "#282828",
         red: "#FF0000",
+        gray: "#AAAAAA",
       },
       fontSize: {
         30: ["30px", "100%"],

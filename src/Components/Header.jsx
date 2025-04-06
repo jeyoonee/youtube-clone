@@ -30,7 +30,7 @@ export default function Header() {
         <HiOutlineMenu className="text-white w-6 h-6 " />
       </button>
       <img
-        src={`${import.meta.env.BASE_URL}logo.png`}
+        src={`${import.meta.env.BASE_URL}/logo.png`}
         alt="youtube logo"
         className="cursor-pointer h-5"
         onClick={() => navigate("/")}
@@ -67,7 +67,7 @@ export default function Header() {
           <SlBell className="text-white w-5 h-5" />
         </button>
         <img
-          src={`${import.meta.env.BASE_URL}profile.jpg`}
+          src={`${import.meta.env.BASE_URL}/profile.jpg`}
           alt="user profile image"
           className="w-8 h-8 rounded-full cursor-pointer mx-[14px]"
         />

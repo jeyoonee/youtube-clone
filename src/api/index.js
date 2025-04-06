@@ -14,12 +14,23 @@ export const fetchPopularVideos = async (regionCode = "KR") => {
     params: {
       part: "snippet,contentDetails,statistics",
       chart: "mostPopular",
-      maxResults: 25,
+      maxResults: 50,
       regionCode,
     },
   });
 
   return shuffle(res.data.items);
+};
+
+export const fetchChannelInfo = async (id) => {
+  console.log(id);
+  const res = await axios.get("/channels", {
+    params: {
+      part: "snippet,contentDetails,statistics",
+      id,
+    },
+  });
+  return res.data.items[0];
 };
 
 export const fetchVideosByKeyword = async (keyword) => {
