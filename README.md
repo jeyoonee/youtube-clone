@@ -1,20 +1,36 @@
-# 🎬 YouTube Clone (React)
+# 📺 YouTube Clone Project
 
-A responsive web application that replicates the core features of YouTube.  
-Includes a video detail page, sidebar with popular videos, and a comment section. Built using React and styled with Tailwind CSS.
+A simple YouTube clone application built with React.
+It allows users to browse popular videos, view detailed pages, read comments, and enjoy a responsive UI experience.
 
-## 🔍 Features
 
-- 📺 Video detail view
-- 📌 Popular videos list (sidebar)
-- 💬 Comment section
-- 📱 Responsive design (Desktop & Mobile)
-- 🔄 Mock API integration with sample data
+## 🚀 Features
+
+- 🔥 Popular Videos: Fetch and display trending YouTube videos
+
+- 🎬 Video Detail Page: Watch videos with title, description, and channel info
+
+- 💬 Comments: Load and display comments for each video
+
+- 📱 Responsive Design: Optimized for both desktop and mobile screens
+
+- ⚡ Fast UI: Built with Vite for a smooth development experience
 
 ## 🛠️ Tech Stack
 
-- **React**
-- **React Router**
-- **Tailwind CSS**
-- **JavaScript (ES6+)**
-- **Vite**
+- Frontend Framework: React
+
+- Routing: React Router
+
+- Styling: Tailwind CSS, PostCSS
+
+- Build Tool: Vite
+
+- Language: JavaScript (ES6+)
+
+- API Testing: Postman
+
+
+## 📷 Preview
+
+
