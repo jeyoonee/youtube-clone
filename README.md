@@ -33,4 +33,7 @@ It allows users to browse popular videos, view detailed pages, read comments, an
 
 ## 📷 Preview
 
+![무제11](https://github.com/user-attachments/assets/70575706-916c-409e-b67b-8c702fb2c276)
+
+![무제 (1)](https://github.com/user-attachments/assets/0d1c9242-7d32-41ae-8aa4-8dcef46a0655)
 
